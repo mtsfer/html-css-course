@@ -1,0 +1,68 @@
+html {
+  font-family: 'Arial', sans-serif;
+  font-style: normal;
+}
+
+p {
+  margin: 0;
+}
+
+.tweet {
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  max-width: 450px;
+}
+
+.author-profile-picture {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 30px;
+  margin-right: 15px;
+}
+
+.author-username {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.author-handle {
+  color: rgb(111, 111, 111);
+  font-weight: normal;
+}
+
+.text {
+  line-height: 20px;
+  margin-bottom: 15px;
+}
+
+.link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  border-radius: 15px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.link-image-preview {
+  background-color: rgb(220, 220, 220);
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+  flex-shrink: 0;
+}
+
+.website {
+  color: rgb(111, 111, 111);
+  margin-bottom: 3px;
+}
+
+.link-title {
+  line-height: 22px;
+}

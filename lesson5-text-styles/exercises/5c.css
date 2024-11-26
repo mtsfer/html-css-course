@@ -1,0 +1,31 @@
+p {
+  font-family: Verdana;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.level {
+  color: rgb(96, 96, 96);
+  margin-bottom: 18px;
+}
+
+.description {
+  line-height: 22px;
+  width: 300px;
+  margin-bottom: 18px;
+}
+
+.get-started-button {
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+  cursor: pointer;
+}

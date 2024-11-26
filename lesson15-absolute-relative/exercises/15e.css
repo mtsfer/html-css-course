@@ -1,0 +1,25 @@
+body {
+  height: 3000px;
+}
+
+.product-container {
+  display: inline-flex;
+  position: relative;
+}
+
+.product-image {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.promotion-tag {
+  font-family: 'Arial', sans-serif;
+  color: white;
+  background-color: black;
+  padding: 5px 12px;
+  position: absolute;
+  top: 10px;
+  right: 0;
+}

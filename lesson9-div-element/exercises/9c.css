@@ -1,0 +1,13 @@
+.question {
+  font-family: 'Arial', sans-serif;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.survey-box {
+  padding: 15px 20px;
+  width: 300px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(150, 150, 150);
+}

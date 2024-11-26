@@ -1,0 +1,10 @@
+.text {
+  display: inline-block;
+  width: 300px;
+  vertical-align: middle;
+}
+
+.button {
+  font-size: 18px;
+  cursor: pointer;
+}

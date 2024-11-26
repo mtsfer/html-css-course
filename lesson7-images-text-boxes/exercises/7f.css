@@ -1,0 +1,39 @@
+p {
+  font-family: 'Arial', sans-serif;
+  color: rgb(100, 100, 100);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.email-input-label {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.email-input {
+  font-size: 16px;
+  width: 384px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: rgb(100, 100, 100);
+  padding: 7px 7px;
+  margin-bottom: 20px;
+}
+
+.signup-agreement-hint {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.signup-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  font-size: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  width: 400px;
+  cursor: pointer;
+}

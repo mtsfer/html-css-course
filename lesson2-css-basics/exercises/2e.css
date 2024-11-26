@@ -1,0 +1,22 @@
+.linkedin-button {
+  height: 38px;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 19px;
+  cursor: pointer;
+}
+
+.linkedin-apply-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  width: 230px;
+  margin-right: 6px;
+}
+
+.linkedin-save-button {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-color: rgb(10, 102, 194);
+  width: 84px;
+}

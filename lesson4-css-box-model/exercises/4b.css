@@ -1,0 +1,14 @@
+.amazon-add-cart-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  padding: 8px 48px;
+  font-size: 14px;
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.amazon-add-cart-button:hover {
+  background-color: rgb(240, 203, 19);
+}

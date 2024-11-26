@@ -1,0 +1,27 @@
+p {
+  font-family: Arial;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.from {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.from-details {
+  color: rgb(100, 100, 100);
+  font-weight: normal;
+}
+
+.content {
+  width: 600px;
+  line-height: 25px;
+  margin-bottom: 20px;
+}
+
+.mention {
+  color: rgb(29, 155, 240);
+  cursor: pointer;
+}

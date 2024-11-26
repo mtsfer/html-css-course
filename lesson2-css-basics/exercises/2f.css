@@ -1,0 +1,33 @@
+.back-to-amazon-link {
+  color: rgb(0, 113, 133);
+  font-weight: bold;
+}
+
+.product-title {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.price-tag {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+
+.amazon-button {
+  height: 32px;
+  width: 124px;
+  border: none;
+  border-radius: 16px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.add-cart-button {
+  background-color: rgb(255, 216, 20);
+  margin-right: 4px;
+}
+
+.buy-now-button {
+  background-color: rgb(255, 164, 28);
+}

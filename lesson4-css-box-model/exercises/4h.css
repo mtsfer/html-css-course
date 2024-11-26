@@ -1,0 +1,19 @@
+.back-button {
+  font-size: 16px;
+  margin-right: 8px;
+  padding: 8px 6px;
+  cursor: pointer;
+}
+
+.page-number {
+  font-size: 18px;
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.next-button {
+  font-size: 16px;
+  margin-left: 8px;
+  padding: 8px 6px;
+  cursor: pointer;
+}

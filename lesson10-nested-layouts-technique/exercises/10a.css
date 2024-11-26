@@ -1,0 +1,59 @@
+p {
+  font-family: 'Arial', sans-serif;
+  font-style: normal;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.follow-suggestion-card {
+  display: inline-block;
+  padding: 10px 16px;
+}
+
+.profile-picture {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 30px;
+  margin-right: 12px;
+  vertical-align: middle;
+}
+
+.profile-info {
+  display: inline-block;
+  width: 180px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.headline,
+.popularity {
+  color: rgb(96, 96, 96);
+}
+
+.headline {
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+
+.popularity {
+  font-size: 16px;
+}
+
+.follow-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 12px;
+  vertical-align: middle;
+  cursor: pointer;
+}
